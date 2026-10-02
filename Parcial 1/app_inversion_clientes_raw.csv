@@ -1,0 +1,316 @@
+ID Cliente,Edad ,Ingreso Mensual (MXN),Antigüedad App (meses),Monto Invertido (MXN),Perfil de Riesgo,Num. Transacciones,Ciudad
+1051,38.0,,26,3718.49,Conservador,7,Chihuahua
+1299,68.0,28682.8,32,10307.92,Moderado,9,Chihuahua
+1252,26.0,36902.82,24,26134.54,Agresivo,12,Guadalajara
+1232,37.0,32278.12,24,14014.61,Moderado,11,CDMX
+1016,34.0,42062.61,30,15694.91,Moderado,5,Chihuahua
+1033,43.0,24312.84,33,10782.92,Moderado,11,CDMX
+1112,42.0,28097.1,55,22826.64,Agresivo,10,Monterrey
+1044,27.0,36075.3,38,5930.14,Conservador,19,Chihuahua
+1178,70.0,25085.44,34,5058.34,Conservador,11,Guadalajara
+1103,33.0,,53,14397.51,Agresivo,12,Chihuahua
+1083,39.0,19888.67,32,6996.67,Moderado,13,Guadalajara
+1113,47.0,37473.39,47,24637.24,Agresivo,14,Chihuahua
+1142,46.0,26712.75,9,5308.94,Conservador,13,Chihuahua
+1275,20.0,19578.66,9,15595.35,Agresivo,14,Guadalajara
+1107,42.0,17134.32,34,4031.18,Conservador,9,Chihuahua
+1219,,9876.87,19,3639.21,Moderado,9,Chihuahua
+1163,69.0,26370.92,44,6505.5,Moderado,11,Ciudad Juarez
+1003,52.0,,19,9373.16,Moderado,13,Ciudad Juarez
+1276,74.0,,55,17338.11,Agresivo,10,Monterrey
+1279,39.0,,10,3020.86,Conservador,18,Monterrey
+1116,53.0,17587.13,31,10853.2,Agresivo,17,Chihuahua
+1004,21.0,28117.29,55,15168.95,Agresivo,11,Chihuahua
+1165,73.0,18136.23,35,500.0,Conservador,9,Guadalajara
+1087,55.0,14492.39,36,4668.63,Moderado,8,Guadalajara
+1062,71.0,32597.88,2,10376.1,Moderado,12,Chihuahua
+1285,,36991.0,42,20850.59,Agresivo,10,Ciudad Juarez
+1011,38.0,36540.85,25,25402.84,Agresivo,5,Guadalajara
+1008,28.0,12624.76,26,4918199.61,Agresivo,22,Ciudad Juarez
+1037,66.0,16538.48,1,7051.07,Moderado,15,Monterrey
+1052,18.0,21192.54,22,15023.38,Agresivo,7,Chihuahua
+1054,45.0,16611.05,54,5536.84,Moderado,14,Monterrey
+1085,71.0,6000.0,5,,Conservador,7,Chihuahua
+1200,19.0,13914.72,54,10104.15,Agresivo,9,Chihuahua
+1256,48.0,19916.87,10,,Conservador,13,Ciudad Juarez
+1093,43.0,22974.48,39,11966.25,Agresivo,11,Chihuahua
+1122,46.0,32301.17,47,21013.82,Agresivo,13,Ciudad Juarez
+1102,25.0,22836.73,15,11292.21,Moderado,11,Ciudad Juarez
+1153,40.0,,52,16529.23,Moderado,14,Ciudad Juarez
+1125,40.0,13879.18,44,10233.42,Agresivo,10,Ciudad Juarez
+1115,22.0,27103.6,23,20744.81,Agresivo,10,CDMX
+1050,28.0,,60,13633.17,Agresivo,15,CDMX
+1005,70.0,16180.2,60,4286.22,Conservador,14,Chihuahua
+1064,68.0,29343.79,31,3652.13,Conservador,15,Monterrey
+1148,51.0,33532.8,17,7873.4,Conservador,13,Guadalajara
+1109,51.0,12810.7,44,2891.99,Conservador,11,Monterrey
+1108,40.0,16474.82,46,12437.12,Agresivo,14,Ciudad Juarez
+1180,37.0,28042.42,12,13816.83,Moderado,20,Chihuahua
+1281,56.0,19765.2,14,10311.87,Moderado,15,Chihuahua
+1297,46.0,34860.94,60,9880.79,Conservador,19,Monterrey
+1119,43.0,30708.31,30,9943.19,Conservador,13,CDMX
+1290,28.0,35646.53,3,7475.19,Conservador,13,Monterrey
+1206,67.0,18237.47,12,2396.78,Conservador,14,Monterrey
+1218,57.0,17964.86,13,,Conservador,11,Chihuahua
+1135,42.0,28379.92,5,20008.22,Agresivo,12,Guadalajara
+1154,53.0,24416.15,25,6867.27,Moderado,13,Monterrey
+1187,61.0,,47,7084.55,Conservador,12,Guadalajara
+1114,66.0,21653.76,39,6482.68,Conservador,7,Chihuahua
+1283,69.0,30419.96,60,8908.85,Conservador,4,Chihuahua
+1027,63.0,,27,6469.61,Conservador,11,Chihuahua
+1138,72.0,20687.0,58,17310.39,Agresivo,15,CDMX
+1045,18.0,35187.84,2,25330.02,Agresivo,14,Monterrey
+1143,32.0,33081.32,3,11264.48,Moderado,12,Monterrey
+1243,25.0,35007.05,32,24832.6,Agresivo,17,Ciudad Juarez
+1238,,7943.87,18,5411.06,Moderado,11,Ciudad Juarez
+1057,32.0,6078.79,60,1405.9,Agresivo,9,Guadalajara
+1295,54.0,,57,6206.23,Moderado,14,Chihuahua
+1145,47.0,20180.85,8,5798.98,Moderado,13,Guadalajara
+1199,68.0,18889.87,56,12688.84,Agresivo,8,Ciudad Juarez
+1289,72.0,35685.66,1,5161.63,Conservador,13,CDMX
+1274,19.0,26320.94,43,3896.31,Conservador,10,Ciudad Juarez
+1097,,26497.73,22,7230.47,Moderado,10,Chihuahua
+1159,29.0,34867.24,57,22052.03,Agresivo,16,Guadalajara
+1209,,24938.43,3,4646.51,Conservador,12,Ciudad Juarez
+1270,73.0,19271.31,52,1728.37,Conservador,12,Monterrey
+1226,32.0,,39,24336.35,Agresivo,14,Monterrey
+1178,70.0,25085.44,34,5058.34,Conservador,11,Guadalajara
+1041,64.0,16158.95,49,5874.49,Moderado,13,CDMX
+1007,32.0,35859.79,45,29093.02,Agresivo,17,Ciudad Juarez
+1082,22.0,34329.75,36,,Conservador,4,Monterrey
+1236,49.0,22500.41,3,18391.75,Agresivo,12,Monterrey
+1091,,27898.3,1,3613.41,Conservador,14,Chihuahua
+1241,42.0,19428.71,52,10944.75,Agresivo,9,Guadalajara
+1126,50.0,27258.65,31,6181.91,Conservador,14,Ciudad Juarez
+1205,19.0,10927.38,35,6477.05,Agresivo,9,Guadalajara
+1281,56.0,19765.2,14,10311.87,Moderado,15,Chihuahua
+1137,49.0,39651.12,5,25836.9,Agresivo,7,Ciudad Juarez
+1073,41.0,34495.95,4,14521.65,Moderado,13,Ciudad Juarez
+1077,72.0,17396.92,12,6795.81,Moderado,9,Monterrey
+1249,24.0,24866.71,53,6766.89,Conservador,17,Chihuahua
+1197,32.0,31014.41,17,22472.58,Agresivo,13,Chihuahua
+1227,44.0,19490.89,16,3011.31,Conservador,13,Guadalajara
+1173,18.0,37505.39,39,28564.74,Agresivo,12,Guadalajara
+1175,29.0,32869.95,35,6819.33,Conservador,12,CDMX
+1034,71.0,24866.73,19,10273.23,Moderado,13,Ciudad Juarez
+1250,26.0,28454.73,23,11200.75,Moderado,8,Ciudad Juarez
+1127,66.0,26954.19,33,11640.5,Moderado,13,Ciudad Juarez
+1151,70.0,,24,9980.82,Moderado,10,Monterrey
+1221,65.0,10709.73,8,,Moderado,14,Ciudad Juarez
+1047,18.0,19450.39,5,17189.05,Agresivo,10,Guadalajara
+1171,35.0,44368.06,50,15359.95,Moderado,18,Monterrey
+1156,61.0,22322.66,59,4313.19,Conservador,11,Monterrey
+1189,50.0,21955.89,53,3071.4,Conservador,13,CDMX
+1176,36.0,27941.55,13,8456.65,Moderado,16,Monterrey
+1242,73.0,33139.09,59,12616.31,Moderado,8,Ciudad Juarez
+1055,22.0,20037.0,37,12579.94,Agresivo,13,CDMX
+1214,72.0,22676.53,58,,Moderado,13,Monterrey
+1190,25.0,29313.87,32,3526.28,Conservador,9,Guadalajara
+1067,28.0,22701.58,1,14005.01,Agresivo,18,Chihuahua
+1120,65.0,33162.67,33,13570.5,Moderado,11,Ciudad Juarez
+1038,200.0,23859.68,7,10435.37,Moderado,11,Chihuahua
+1104,32.0,39099.54,49,14324.06,Moderado,10,Monterrey
+1268,30.0,6302.79,52,5058.76,Agresivo,9,Guadalajara
+1265,33.0,23681.09,21,7899.61,Conservador,16,CDMX
+1013,,32626.02,36,22885.94,Agresivo,16,Chihuahua
+1066,30.0,31341.26,30,21265.99,Agresivo,13,Chihuahua
+1111,34.0,37017.07,37,5318.76,Conservador,8,CDMX
+1010,28.0,22766.21,18,3456.18,Conservador,14,CDMX
+1082,22.0,34329.75,36,,Conservador,4,Monterrey
+1205,19.0,10927.38,35,6477.05,Agresivo,9,Guadalajara
+1167,28.0,23251.12,11,5050.34,Conservador,10,Ciudad Juarez
+1025,,29184.9,16,10196.8,Moderado,15,Guadalajara
+1204,42.0,29595.45,2,10192.22,Moderado,17,Ciudad Juarez
+1196,68.0,,32,8343.02,Moderado,11,Guadalajara
+1203,,25363.74,29,5276.24,Conservador,11,Chihuahua
+1181,,32832.95,13,10784.75,Moderado,7,Monterrey
+1291,67.0,21914.75,31,2222.2,Conservador,13,Guadalajara
+1235,44.0,19074.15,24,15171.44,Agresivo,11,Guadalajara
+1260,28.0,23627.01,33,10895.62,Moderado,14,CDMX
+1225,58.0,10045.33,39,5848.37,Moderado,11,Guadalajara
+1263,52.0,35395.07,36,25041.71,Agresivo,10,Monterrey
+1215,72.0,21633.72,19,4048.16,Conservador,15,Guadalajara
+1049,42.0,39693.18,3,29213.79,Agresivo,16,CDMX
+1017,63.0,,44,33821.06,Agresivo,17,CDMX
+1212,55.0,12319.28,33,2088.28,Moderado,8,Chihuahua
+1134,,10624.15,37,6258.43,Agresivo,12,Guadalajara
+1288,26.0,21791.59,45,18714.31,Agresivo,13,Chihuahua
+1015,44.0,27513.51,43,21340.16,Agresivo,13,CDMX
+1272,60.0,43261.01,34,,Conservador,9,Guadalajara
+1031,26.0,,36,,Moderado,5,Monterrey
+1238,,7943.87,18,5411.06,Moderado,11,Ciudad Juarez
+1217,62.0,20670.07,9,7566.32,Moderado,10,Guadalajara
+1086,31.0,19644.35,22,1398.79,Conservador,13,Chihuahua
+1081,49.0,24599.96,31,1545.42,Conservador,9,Monterrey
+1002,57.0,24981.03,52,11465.2,Moderado,13,Ciudad Juarez
+1118,33.0,33592.64,50,,Moderado,14,Chihuahua
+1195,48.0,24817.74,41,14988.0,Agresivo,15,Chihuahua
+1133,,38367.3,3,32510.08,Agresivo,5,Ciudad Juarez
+1280,33.0,15484.6,8,9906.65,Agresivo,15,Guadalajara
+1009,37.0,26961.1,32,2528.4,Conservador,11,CDMX
+1019,67.0,28049.95,53,9223.15,Moderado,10,Monterrey
+1172,66.0,22753.66,8,15451.07,Agresivo,14,CDMX
+1129,,16753.67,42,3192.3,Conservador,9,Ciudad Juarez
+1286,67.0,31725.56,5,6465.18,Conservador,16,Ciudad Juarez
+1201,52.0,30271.14,47,,Agresivo,15,Monterrey
+1022,47.0,18855.95,45,10184.19,Moderado,14,Chihuahua
+1006,30.0,33424.39,6,6048.47,Conservador,11,Chihuahua
+1248,57.0,26438.08,51,7312.83,Conservador,10,Monterrey
+1058,71.0,27035.73,51,7739.77,Conservador,10,CDMX
+1267,41.0,19349.73,52,10173.46,Moderado,20,Ciudad Juarez
+1269,31.0,13000.79,51,10321.08,Agresivo,9,Chihuahua
+1099,56.0,25277.82,44,9792.46,Moderado,10,Ciudad Juarez
+1090,28.0,12304.45,8,2874.21,Moderado,6,Ciudad Juarez
+1234,53.0,22029.2,52,5582.96,Conservador,12,Guadalajara
+1149,74.0,31020.16,38,13469.56,Moderado,7,Chihuahua
+1208,27.0,24026.52,25,13510.6,Agresivo,5,Guadalajara
+1072,34.0,28793.38,9,20909.14,Agresivo,10,Monterrey
+1157,23.0,6300.53,22,500.0,Agresivo,13,Monterrey
+1274,19.0,26320.94,43,3896.31,Conservador,10,Ciudad Juarez
+1068,68.0,6399.49,1,500.0,Conservador,12,Monterrey
+1128,43.0,19623.41,30,15022.02,Agresivo,9,Guadalajara
+1144,48.0,32321.12,44,13564.87,Moderado,7,CDMX
+1071,48.0,15599.2,22,3737.6,Moderado,13,Guadalajara
+1277,39.0,14749.11,35,4465.17,Moderado,16,Monterrey
+1140,43.0,33751.58,14,13709.67,Moderado,15,Chihuahua
+1244,49.0,17807.49,31,2679.62,Conservador,7,Chihuahua
+1210,38.0,28165.15,1,12106.68,Moderado,8,Monterrey
+1075,44.0,31047.68,50,9751.42,Moderado,15,Ciudad Juarez
+1158,42.0,31467.87,41,6899.34,Conservador,10,Ciudad Juarez
+1237,28.0,49465.95,40,36512.04,Agresivo,14,Monterrey
+1293,29.0,36760.17,22,9303.2,Conservador,10,Chihuahua
+1231,150.0,23988.95,30,2975.24,Conservador,12,Chihuahua
+1040,48.0,16292.53,7,3955.78,Moderado,13,CDMX
+1298,20.0,17941.25,34,5351.13,Conservador,7,CDMX
+1266,31.0,28833.38,14,20692.75,Agresivo,13,Monterrey
+1257,68.0,34867.69,41,2657.75,Conservador,13,CDMX
+1039,30.0,25524.69,32,4400.68,Conservador,18,Guadalajara
+1117,22.0,25171.91,55,19622.77,Agresivo,13,Guadalajara
+1098,46.0,34207.41,5,21615.58,Agresivo,8,Guadalajara
+1246,57.0,20125.33,11,610.23,Conservador,6,Guadalajara
+1194,26.0,22017.67,39,14407.23,Agresivo,15,Chihuahua
+1023,33.0,26479.5,49,20885.27,Agresivo,7,Chihuahua
+1155,24.0,31850.76,24,17793.2,Agresivo,13,Monterrey
+1160,35.0,40023.33,36,16845.94,Moderado,11,Guadalajara
+1139,41.0,37730.71,15,6701.09,Conservador,9,Chihuahua
+1259,44.0,30830.41,45,4190.68,Conservador,14,Guadalajara
+1026,65.0,21650.12,33,3393.31,Conservador,12,Ciudad Juarez
+1184,64.0,15458.03,2,3009.2,Conservador,11,CDMX
+1014,71.0,24389.84,21,12023.83,Moderado,10,Guadalajara
+1146,41.0,6000.0,15,2455.23,Moderado,10,Guadalajara
+1213,50.0,34954.56,42,25796.59,Agresivo,11,Monterrey
+1207,21.0,22495.71,60,13552.47,Agresivo,7,Chihuahua
+1059,27.0,30904.11,47,6920.03,Conservador,11,Chihuahua
+1247,43.0,28615.56,13,11322.87,Moderado,13,Ciudad Juarez
+1038,200.0,23859.68,7,10435.37,Moderado,11,Chihuahua
+1065,-1.0,20750.98,53,8150.42,Moderado,9,Guadalajara
+1254,44.0,24489.66,21,10657.48,Moderado,12,Ciudad Juarez
+1224,35.0,21796.24,42,10528.75,Moderado,14,Chihuahua
+1053,26.0,26339.89,14,18010.08,Agresivo,7,Guadalajara
+1100,,26109.47,15,10497.87,Moderado,12,Guadalajara
+1035,60.0,30257.36,51,22578.87,Agresivo,11,Chihuahua
+1079,48.0,16254.4,48,6230.17,Moderado,9,Guadalajara
+1151,70.0,,24,9980.82,Moderado,10,Monterrey
+1121,,21738.24,38,4645.61,Conservador,18,CDMX
+1185,65.0,30227.87,44,5873.3,Conservador,16,Chihuahua
+1067,28.0,22701.58,1,14005.01,Agresivo,18,Chihuahua
+1168,46.0,20886.14,7,7013.65,Conservador,9,Chihuahua
+1273,36.0,,58,,Moderado,8,Ciudad Juarez
+1070,60.0,25489.67,53,4796294.38,Conservador,13,Guadalajara
+1188,31.0,37040.98,45,7235.19,Conservador,15,Ciudad Juarez
+1174,73.0,30689.86,30,5101.12,Conservador,15,Guadalajara
+1029,41.0,37320.09,15,16304.32,Moderado,12,CDMX
+1136,54.0,37801.32,37,27584.95,Agresivo,17,Chihuahua
+1132,19.0,26064.0,32,,Agresivo,14,Guadalajara
+1282,71.0,8889.73,12,2957.29,Moderado,10,Ciudad Juarez
+1166,22.0,30034.68,54,22800.06,Agresivo,15,CDMX
+1300,36.0,25306.57,29,2475.6,Conservador,16,Guadalajara
+1043,32.0,31526.57,29,7888.16,Moderado,10,Monterrey
+1024,32.0,32648.02,26,21610.42,Agresivo,20,Guadalajara
+1092,36.0,23307.28,38,6100.8,Conservador,11,Guadalajara
+1294,69.0,26407.67,58,5748.54,Conservador,10,Guadalajara
+1223,39.0,7963.72,30,6021.92,Agresivo,11,Chihuahua
+1183,34.0,14913.06,37,13011.56,Agresivo,12,Ciudad Juarez
+1088,62.0,26484.62,3,3735.45,Conservador,14,CDMX
+1042,31.0,16620.94,9,5898.79,Conservador,11,CDMX
+1101,66.0,29282.43,5,2663.07,Conservador,12,Chihuahua
+1261,32.0,28298.39,37,9649.67,Conservador,10,Guadalajara
+1095,59.0,32683.26,34,14944.83,Moderado,9,CDMX
+1076,68.0,31939.08,16,3240599.86,Conservador,11,Ciudad Juarez
+1032,54.0,27701.02,52,19803.53,Agresivo,8,Guadalajara
+1191,21.0,31369.82,42,21177.29,Agresivo,11,Monterrey
+1192,42.0,23687.79,30,,Conservador,9,Guadalajara
+1094,18.0,20835.33,37,16376.33,Agresivo,16,CDMX
+1046,46.0,17695.01,48,9860.73,Agresivo,17,Monterrey
+1162,18.0,,35,500.0,Conservador,13,Guadalajara
+1287,28.0,34918.86,43,25378.18,Agresivo,6,Ciudad Juarez
+1109,51.0,12810.7,44,2891.99,Conservador,11,Monterrey
+1106,18.0,14604.44,46,14059.89,Agresivo,10,Ciudad Juarez
+1150,22.0,21845.93,11,15140.38,Agresivo,11,Guadalajara
+1030,61.0,20546.03,47,1034.21,Conservador,10,CDMX
+1182,65.0,6000.0,31,3544.6,Moderado,13,Monterrey
+1110,51.0,27896.62,59,,Moderado,18,Chihuahua
+1164,61.0,16824.97,18,7098.15,Moderado,13,Chihuahua
+1123,51.0,36601.68,15,30204.43,Agresivo,17,Chihuahua
+1028,30.0,8253.67,17,3300.37,Moderado,14,Chihuahua
+1105,40.0,32544.13,7,12268.09,Moderado,11,Monterrey
+1061,47.0,37472.49,21,16173.68,Moderado,12,Chihuahua
+1147,48.0,34136.39,54,23740.81,Agresivo,14,Monterrey
+1084,51.0,,32,8495.87,Moderado,12,Ciudad Juarez
+1264,56.0,24718.79,23,6898.86,Conservador,16,CDMX
+1228,31.0,15654.82,35,7418.32,Agresivo,16,Ciudad Juarez
+1270,73.0,19271.31,52,1728.37,Conservador,12,Monterrey
+1152,46.0,12492.42,29,6377.17,Moderado,5,Chihuahua
+1001,18.0,13009.39,11,12496.91,Agresivo,13,Chihuahua
+1271,37.0,38771.47,16,15022.15,Moderado,12,CDMX
+1089,71.0,26835.27,49,5252.21,Conservador,13,CDMX
+1078,35.0,21455.25,25,18232.5,Agresivo,20,Monterrey
+1124,62.0,29508.48,11,1474.52,Conservador,17,Chihuahua
+1096,19.0,29756.6,41,13765.4,Moderado,16,Monterrey
+1058,71.0,27035.73,51,7739.77,Conservador,10,CDMX
+1012,65.0,26806.64,48,6108.53,Conservador,17,Chihuahua
+1115,22.0,27103.6,23,20744.81,Agresivo,10,CDMX
+1258,33.0,17186.4,27,7985.54,Moderado,13,Ciudad Juarez
+1220,26.0,35061.52,4,15554.9,Moderado,11,Monterrey
+1253,19.0,18113.86,10,14268.55,Agresivo,7,Monterrey
+1296,44.0,33836.84,22,14137.14,Moderado,7,Ciudad Juarez
+1262,47.0,22687.09,28,10626.8,Moderado,12,Chihuahua
+1179,65.0,20240.52,35,1835.56,Conservador,6,Guadalajara
+1020,,26930.31,39,9612.25,Moderado,14,Ciudad Juarez
+1170,35.0,22319.52,45,11856.86,Moderado,20,Ciudad Juarez
+1240,35.0,25467.47,18,4733.61,Conservador,12,Ciudad Juarez
+1278,18.0,27901.66,10,20653.72,Agresivo,14,Chihuahua
+1161,45.0,24249.43,44,15088.58,Agresivo,12,Monterrey
+1074,-5.0,15751.2,38,2825.12,Conservador,12,Ciudad Juarez
+1018,65.0,11428.53,43,2850.16,Conservador,7,Guadalajara
+1063,53.0,,48,9407.55,Moderado,15,Guadalajara
+1250,26.0,28454.73,23,11200.75,Moderado,8,Ciudad Juarez
+1229,53.0,,21,7855.94,Conservador,15,Ciudad Juarez
+1239,,32305.88,48,5318.45,Conservador,10,Guadalajara
+1230,39.0,16377.55,23,7095.82,Moderado,12,Chihuahua
+1284,22.0,18156.79,36,11001.16,Agresivo,17,Guadalajara
+1048,51.0,,8,10271.94,Agresivo,13,Guadalajara
+1251,48.0,29097.56,51,13111.54,Moderado,15,Guadalajara
+1080,48.0,20370.28,29,9957.01,Moderado,12,Chihuahua
+1255,58.0,44599.75,25,8728.25,Conservador,5,Guadalajara
+1021,19.0,16409.72,45,14624.34,Agresivo,13,Monterrey
+1141,65.0,34458.73,1,14583.73,Moderado,18,Ciudad Juarez
+1193,35.0,33305.39,20,2996.43,Conservador,8,Guadalajara
+1131,43.0,34191.19,41,9136.18,Conservador,15,CDMX
+1216,33.0,33868.92,34,27812.85,Agresivo,11,Chihuahua
+1245,48.0,24300.41,10,9152.03,Moderado,12,CDMX
+1060,54.0,32759.81,23,12629.87,Moderado,8,Chihuahua
+1222,60.0,,33,7591.91,Moderado,16,Monterrey
+1177,36.0,23900.01,12,18201.35,Agresivo,7,Guadalajara
+1056,60.0,17703.11,60,8269.33,Moderado,12,Monterrey
+1292,63.0,25627.13,2,5890.0,Conservador,9,CDMX
+1255,58.0,44599.75,25,8728.25,Conservador,5,Guadalajara
+1198,28.0,36464.07,16,26028.69,Agresivo,13,Guadalajara
+1069,29.0,24747.61,49,18385.62,Agresivo,13,CDMX
+1211,44.0,30509.01,41,11122.17,Moderado,10,Guadalajara
+1233,54.0,18565.42,8,10892.88,Moderado,6,CDMX
+1202,50.0,8182.86,19,500.0,Moderado,11,Chihuahua
+1169,67.0,28230.71,24,8349.99,Conservador,9,CDMX
+1186,56.0,30005.14,15,8095.01,Conservador,17,Chihuahua
+1036,,21110.26,30,8073.6,Moderado,21,Ciudad Juarez
+1130,40.0,18501.2,30,10648.97,Moderado,10,Guadalajara
